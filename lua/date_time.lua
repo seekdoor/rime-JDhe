@@ -99,6 +99,7 @@ local conf = {
 }
 
 conf.pattern_date = {
+    "_{year}{month}{day}.{hour}{min}", -- _20220905.1836
     "{year}-{month}-{day}", -- 2022-09-05
     "{year}.{month}.{day}", -- 2022.09.05
     "{year}{month}{day}", -- 20220905
