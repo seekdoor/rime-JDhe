@@ -173,6 +173,7 @@ __patch:
 ##################################################
   - switches/+: 
     - name: chaifen
+      reset: 1
       states: [ 不拆, 扌斥 ]
     - name: inflexible
       reset: 1    
