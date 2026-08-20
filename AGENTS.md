@@ -5,6 +5,11 @@
 This repository contains Rime input schemas, dictionaries, OpenCC data, and Lua extensions.
 本仓库包含 Rime 输入方案、词库、OpenCC 数据和 Lua 扩展。
 
+## Documentation Language / 文档语言
+
+Use bilingual editing for documentation: place the English text first, followed by the Chinese translation.
+文档采用双语编辑：先写英文内容，再写中文译文。
+
 ## Branch / 分支
 
 The default remote branch is `mine`; keep feature changes on the local `mine` branch unless the user explicitly requests another branch.
